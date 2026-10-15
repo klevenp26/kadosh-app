@@ -1,0 +1,13 @@
+KADOSH APP - PUBLICAÇÃO
+
+1. Abra github.com e entre em sua conta.
+2. Crie um repositório PÚBLICO chamado kadosh-app.
+3. Clique Add file > Upload files. Envie TODOS os arquivos de dentro da pasta kadosh-app, incluindo a pasta icons. NÃO envie apenas o ZIP.
+4. Confirme em Commit changes.
+5. Abra Settings > Pages > Build and deployment: Deploy from a branch; branch main; pasta /(root); Save.
+6. Aguarde a publicação e abra https://SEU-USUARIO.github.io/kadosh-app/
+7. No iPhone: Safari > Compartilhar > Adicionar à Tela de Início. No Android: Chrome > Instalar aplicativo ou Adicionar à tela inicial.
+
+ATUALIZAÇÕES: Os líderes autorizados podem editar a planilha Google. Não é necessário editar código para atualizar conteúdo. As abas CSV são públicas: não publique informações pessoais ou sensíveis. Pode haver atraso para as mudanças aparecerem. É necessária internet para carregar conteúdos novos.
+
+LINKS: config.js já está preenchido com as seis abas enviadas.
